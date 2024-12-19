@@ -1,2 +1,4 @@
 garbage text
-added new text
+added new text 
+hello
+git status
